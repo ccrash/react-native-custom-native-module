@@ -13,7 +13,7 @@ But right now, not being uploaded on NPM, you can add it to your project editing
   ...
   "dependencies": {
     ...
-    "react-native-custom-module": "https://github.com/ccrash/react-native-custom-module.git"
+    "react-native-custom-module": "https://github.com/ccrash/react-native-module-test.git"
   },
 }
 ```

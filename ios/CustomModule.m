@@ -1,4 +1,5 @@
 #import "CustomModule.h"
+#import <React/RCTLog.h>
 
 static bool initialized = false;
 static NSString* applicationId = nil;
